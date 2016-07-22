@@ -1,0 +1,26 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.blue{
+	background-color: blue;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+.green{
+	background-color: green;
+	width: 100px;
+	height: 100px;
+	left: 50px;
+	top: 50px;
+	position: relative;
+}
+.black{
+	background-color: black;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
